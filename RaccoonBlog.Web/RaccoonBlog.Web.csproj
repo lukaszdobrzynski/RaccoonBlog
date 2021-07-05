@@ -555,7 +555,6 @@
     <Content Include="Content\css\img\banners\linkedin.png" />
     <Content Include="Content\css\img\banners\producthunt-efprof.png" />
     <Content Include="Content\css\img\banners\producthunt-nhprof.png" />
-    <Content Include="Content\css\img\banners\ravendb-51.png" />
     <Content Include="Content\css\img\banners\trustradius.png" />
     <Content Include="Content\css\img\commentPreviewDate.png" />
     <Content Include="Content\css\img\error.png" />
